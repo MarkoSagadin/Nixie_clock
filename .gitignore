@@ -1,5 +1,5 @@
-Debug
+**/Debug/
 
-Nixie_Clock.componentinfo.xml
+**/*.xml
 
-Nixie_Clock.cproj
+**/*.cproj
